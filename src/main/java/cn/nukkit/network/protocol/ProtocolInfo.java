@@ -11,7 +11,7 @@ public interface ProtocolInfo {
      */
     byte CURRENT_PROTOCOL = 105;
     String MINECRAFT_VERSION = "v1.0.5";
-    String MINECRAFT_VERSION_NETWORK = "1.0.5";
+    String MINECRAFT_VERSION_NETWORK = "1.0.6";
 
     byte LOGIN_PACKET = 0x01;
     byte PLAY_STATUS_PACKET = 0x02;
