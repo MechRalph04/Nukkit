@@ -1123,7 +1123,7 @@ public class Server {
     }
 
     public String getName() {
-        return "Nukkit";
+        return "MechJavaNetwork";
     }
 
     public boolean isRunning() {
